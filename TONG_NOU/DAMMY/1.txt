@@ -1,0 +1,1 @@
+[Tong-Nou] requires a VGA card capable of displaying 256 colors (8-bit color) at a minimum resolution of 640 by 480 pixels.
